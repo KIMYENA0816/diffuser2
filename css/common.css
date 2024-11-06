@@ -1,0 +1,20 @@
+.wrap{
+    width: 100%;
+}
+
+header, section ,footer {
+    width: 100%;
+    /* background-color: rgb(246, 185, 185); */
+}
+
+.in_header ,content {
+    width: 1420px;
+    height: 100%;
+    /* background-color: brown; */
+    margin: 0 auto;
+}
+
+.sec_title {
+    font-size: 50px;
+}
+
